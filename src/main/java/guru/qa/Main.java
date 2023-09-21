@@ -47,6 +47,7 @@ public class Main {
 
         System.out.println("//Комбинации типов данных");
 
+
         System.out.println("Byte + Short + Ineger = " + (xByte + xShort + yInt));
         System.out.println("Float / Double = " + xFloat / yDouble);
         System.out.println("Double % Float = " + yDouble % xFloat);
